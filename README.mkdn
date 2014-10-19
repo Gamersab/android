@@ -27,6 +27,7 @@ If you have a slow internet connection, use:
     repo sync -j1
 
 This tells the repo to fetch projects one by one.
+If fetch fails try repo sync -f 
 
 Building MiniCM for pico (Quick start)
 -----------------------------
@@ -35,4 +36,4 @@ Building MiniCM for pico (Quick start)
 
     brunch pico
     
-    If fetch fails try : bruch pico -f 
+    
