@@ -18,7 +18,7 @@
 
   <!-- Device specific projects -->
   <project path="device/htc/pico" name="gamersab/android_device_htc_pico" revision="android-4.0" />
-  <project path="vendor/htc/pico" name="minicm4pico/ics-vendor-pico"/> 
+  <project path="vendor/htc/pico" name="gamersab/ics-vendor-pico" revision="ics" /> 
   
   <!-- minicm4pico projects -->
   <project path="android" name="minicm4pico/android" />
